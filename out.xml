@@ -1,5 +1,5 @@
 <Response>
-    <GetDigits action="https://raw.githubusercontent.com/sanjeev051996/first-xml/master/response.txt" method="POST">
+    <GetDigits action="https://raw.githubusercontent.com/sanjeev051996/first-xml/master/res.xml" method="POST">
         <Speak>Enter your 4-digit pin number </Speak>
     </GetDigits>
      <Speak>Please wait while your call is being transferred.</Speak>
