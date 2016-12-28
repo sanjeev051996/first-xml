@@ -1,6 +1,6 @@
 <Response>
-    <GetDigits action="http://www.foo.com/gather_pin/" method="POST">
-        <Speak>Enter your 4-digit pin number</Speak>
+    <GetDigits action="https://raw.githubusercontent.com/sanjeev051996/first-xml/master/response.txt" method="POST">
+        <Speak>Enter your 4-digit pin number </Speak>
     </GetDigits>
      <Speak>Please wait while your call is being transferred.</Speak>
      <Redirect method="GET" >https://raw.githubusercontent.com/sanjeev051996/second_xml/master/out.xml</Redirect>
