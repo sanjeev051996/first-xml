@@ -3,5 +3,5 @@
         <Speak>Enter your 4-digit pin number</Speak>
     </GetDigits>
      <Speak>Please wait while your call is being transferred.</Speak>
-     <Redirect>https://raw.githubusercontent.com/sanjeev051996/second_xml/master/out.xml</Redirect>
+     <Redirect method="GET" >https://raw.githubusercontent.com/sanjeev051996/second_xml/master/out.xml</Redirect>
 </Response>
