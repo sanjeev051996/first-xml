@@ -1,5 +1,5 @@
 <Response>
-    <GetDigits action="https://stark-bayou-68090.herokuapp.com/widgets" method="POST">
+    <GetDigits action="https://desolate-brushlands-29726.herokuapp.com/widgets" method="POST">
         <Speak>Enter your 4-digit pin number </Speak>
     </GetDigits>
      <Speak>Please wait while your call is being transferred.</Speak>
