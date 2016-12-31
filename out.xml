@@ -1,7 +1,8 @@
 <Response>
-    <GetDigits action="https://morning-peak-65848.herokuapp.com/widgets/ivr" method="GET">
+<!--     <GetDigits action="https://morning-peak-65848.herokuapp.com/widgets/ivr" method="GET">
         <Speak>Enter your 4-digit pin number </Speak>
     </GetDigits>
-     <Speak>Please wait while your call is being transferred.</Speak>
-     <Redirect method="GET" >https://raw.githubusercontent.com/sanjeev051996/second_xml/master/out.xml</Redirect>
+     <Speak>Please wait while your call is being transferred.</Speak> -->
+<!--      <Redirect method="GET" >https://raw.githubusercontent.com/sanjeev051996/second_xml/master/out.xml</Redirect> -->
+    <Redirect method="GET" >https://morning-peak-65848.herokuapp.com/widgets/ivr</Redirect>
 </Response>
